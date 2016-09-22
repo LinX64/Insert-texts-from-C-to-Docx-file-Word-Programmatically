@@ -5,5 +5,6 @@ The real source is here : http://dtkit.com/how-to-programmatically-insert-text-i
 
 Which it had some problems and i've fixed it.
 
+Now, In this version, After clicking on the Output `Button`, you will see the output and the docx file after that.
 
-
+- Added the docx file on the project and i've set the `Copy always` for making changes on VS 2015
